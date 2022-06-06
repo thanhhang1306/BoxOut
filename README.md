@@ -6,7 +6,7 @@ BoxOut is a novel puzzle game made by Hang Pham, currently with 7-outside-of-the
 Each puzzle level of the game will have a circle/circle outline, and players must utilize the mouse and keys to solve the puzzles on the screen with minimal instructions. The puzzle is solved when the circle is filled completely. More instructions are available within the game. 
 
 ## Installation
-Use a Java Integrated Development Environment, such as Eclipse, to run the code. Every file but the README.md, SOLUTIONS.md, and Advertisement for BoxOut.pdf files are required for the game to function.
+Use a Java Integrated Development Environment, such as Eclipse, to run the code. Every file but the README.md, SOLUTIONS.md, Advertisement for BoxOut.pdf, and files in the bin folder are required for the game to function.
 
 
 ## Contributing
