@@ -1,7 +1,7 @@
-#  SOLUTIONS TO BOXOUT: A PUZZLE GAME BY HANG PHAM 
+#  Solutions to BoxOut: A puzzle game by Hang Pham
 
 
-## 1/ Red level: Tutorial based 
+## 1/ Red level: Based on the tutorial
 - Press the left arrow once, the right arrow twice for the circles nearest to the left 
 - Click on the remaining circles (highest circle: 3 times, circle farthest to the right: 4 times)
 
@@ -24,7 +24,7 @@
 + F7: Once 
 + F8: Three times 
 
-## 5/ Blue level: Settings
+## 5/ Blue level: Settings manipulation
 - Press on the music & hint settings 
 - In the music setting: Turn music off and on to fill two circles 
 - In the hint setting: Press yes and no to fill two circles
@@ -34,7 +34,7 @@
 - F2 + ctrl will fill the circle at the bottom near the moon; only need to press once 
 - F3 + ctrl will fill the circle at the top near the sun; 2 press required
 
-## 7/ Pink level: Travel the world 
+## 7/ Pink level: Let's travel around the world 
 - On the screen with variations of "hi": Move the mouse outside of the game screen and back inside 
 + Logic: As if the mouse is entering an area; when one enters a place, they greet others 
 - On the screen with variations of "bye": Move the mouse outside of the game screen twice 
