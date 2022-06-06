@@ -10,7 +10,7 @@ Use a Java Integrated Development Environment, such as Eclipse, to run the code.
 
 
 ## Contributing
-Pull requests are welcome but please credit Hang Pham. As this project was developed with a relatively intermediate knowledge of programming (based on knowledge taught in school), the code might not be the most optimal. Additionally, note that the game has only been tested on Windows OS, not MAC OS. I sincerely apologize. I sincerely apologize for any inconvenience. 
+Pull requests are welcome but please credit Hang Pham. As this project was developed with a relatively intermediate knowledge of programming (based on knowledge taught in school), the code might not be the most optimal. Additionally, note that the game has only been tested on Windows OS, not MAC OS. I sincerely apologize for any inconvenience. 
 
 ## Credits 
 All photographs within the Box Out game are taken from Canva.com and are copy-right free. The music is from Bensound.com. 
